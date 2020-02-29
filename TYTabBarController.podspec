@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'TYTabBarController'
 
-  s.version          = '1.0.0'
+  s.version          = '1.1.0'
 
   s.summary          = 'Tab Controller Powered By Tuya'
   s.homepage         = 'https://github.com/TuyaInc/TYTabBarController.git'
